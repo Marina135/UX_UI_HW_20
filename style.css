@@ -1,0 +1,213 @@
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    width: 25%;
+}
+
+.customNav {
+    background-color: #19535F;
+}
+
+.nav {
+    color: white !important;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navi a {
+    padding: 20px;
+}
+
+.jumbotron {
+    background: url("../img/Screenshot\ 2021-02-10\ at\ 13.35.09\ copy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.jumbotroncontent {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    padding-bottom: 250px;
+    padding-top: 40px;
+    color: white;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    font-size: 68px;
+}
+
+.sub {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: center;
+}
+
+.emailbtn {
+    background-color: #F2F2F2 !important;
+    border: black solid !important;
+    color: black !important;
+    padding: 5px;
+    margin: 5px;
+}
+
+.zipbtn {
+    background-color: #F2F2F2 !important;
+    border: black solid !important;
+    color: black !important;
+    padding: 5px;
+    margin: 5px;
+}
+
+.joinbtn {
+    background-color: #7B2D26 !important;
+    border: black solid !important;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.lead {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -90px;
+    text-align: center;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-body {
+    background-color: #7B2D26;
+    color: white;
+}
+
+.card-title {
+    font-size: 45px;
+}
+
+.readmore {
+    display: flex;
+    align-self: flex-end;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.read {
+    background-color: #F2994B !important;
+}
+
+.wdpaction {
+    background-color: #7B2D26;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    color: white;
+}
+
+.row1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.row2 {
+    display: flex;
+    justify-content: center;
+}
+
+.col1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.col2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.subheading {
+    font-size: 68px;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+
+.thumbnail {
+    padding: 20px;
+    size: 75%;
+}
+
+.wdp {
+    padding: 10px;
+}
+
+.ourresearch {
+    background-color: #7B2D26;
+    padding-bottom: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    color: white;
+}
+
+.or {
+    margin-left: 90px;
+    margin-right: 45px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.learnmore {
+    font-size: 45px;
+    text-align: center;
+}
+
+.readmore {
+    font-size: 28px;
+}
+
+.thankyou {
+    background-color: #7B2D26;
+    padding-bottom: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.thank {
+    margin-top: 30px;
+    background-color: #F2994B !important;
+}
+
+footer {
+    background-color: #19535F !important;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.flogo {
+    width: 25%;
+}
